@@ -1,0 +1,20 @@
+h3 {
+  text-align: center;
+  padding: 8px 0;
+}
+
+.selected-timeline-item .ant-timeline-item-head {
+  width: 16px;
+  height: 16px;
+  margin-top: -3px;
+  background-color: #1890ff;
+}
+
+.selected-timeline-item .ant-timeline-item-label,
+.selected {
+  font-weight: bold;
+}
+
+.button-right-align {
+  text-align: right;
+}

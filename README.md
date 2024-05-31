@@ -1,62 +1,70 @@
- # BusLink (Darbinieku pārvadāšanas sistēma)
-(Sākuma lapa)
-![image](https://github.com/DavisA4/BusLInk/assets/156308695/c135f46d-63c8-4de2-98c4-3f83c058a299)
+# Getting Started with Create React App
 
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Šajā README failā tiks aprakstīta šī projekta darbības gaita un tās funkcionalitāte.
+## Available Scripts
 
+In the project directory, you can run:
 
-BusLink ir izstrādāts, lai vienkāršotu darbinieku nokļūšanu darbā, mājaslapa strādā ka autobusu saraksts, bet tikai priekš konkrēta uzņēmuma darbiniekiem.
+### `npm start`
 
-# Funkcijas
-Mūsu platforma ļauj lietotājiem:
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
- - Izvēlēties sev vajadzīgo maršrutu.
- - Lietotājam Draudzīga Forma: Ievadīt un droši saglabāt personīgo informāciju mūsu datu bāzē.
- - Ērti apskatīt autobusu reisu sarakstu.
- - Ērti un Pieejami: Mūsu mērķis ir vienkāršot autobusu kustibu un to pieejamibu lietotājiem, padarot to ērtāku visiem lietotājiem.
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
-# Darba Sākšana
-Veiciet šīs darbības, lai palaistu projektu:
+### `npm test`
 
- ##  Atveriet BusLink Projektu:
- - Atveriet projektu Visual Studio Code.
- ## Atveriet Termināli:
- - Atveriet Termināļa sadaļu Visual Studio Code augšējā header joslā.
- - Atveriet divus termināļus vienu pašam projektam otru datu bāzei.
- - Izvēlieties "New Terminal".
- ## Instalējiet Atkarības:
- - Terminālī ierakstiet npm install, lai instalētu nepieciešamās paketes.
- - Pēc instalēšanas palaidiet projektu ar npm start.
- - Otrā termināli rakstiet npm run devStart , lai palaistu datu bāzi.
- - Tad projektā izveidojiet .env failu un iekša rakstiet(JWT=randomstring)
- ## Piekļuve Projektam:
- - Projekts tiks atvērts jūsu noklusējuma tīmekļa pārlūkā.
- - Login:
- - E-pasts: test Parole: test
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
+### `npm run build`
 
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-# Projekta progress.
-- [x] Projekta pamata izveide.
-- [x] Projekts izstrādāts vismaz 25% apmērā.
-- [x] Projekts izstrādāts vismaz 50% apmērā.
-- [x] Izstrādāta daļa no lietotāja sadaļas.
-- [x] Izstrādāta daļa no admin sadaļas.
-- [x] Izdomāts un izveidots dizains.
-- [x] Izveidota datu bāze.
-- [x] Izstrādāta ielogošanās funkcija.
-- [x] Projekts izstrādāts 75% apmērā.
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-# Dokuments
-- [x] Izveidota dokumenta titullapa.
-- [x] Izveidots ievads.
-- [x] Izveidota pirmā sadaļa.
-- [x] Izveidota otrā sadaļa.
-- [x] Izveidota trešā sadaļa.
-- [x] Izveidota ceturtā sadaļa.
-- [x] Izveidota piektā sadaļa.
-- [x] Izveidota sestā sadaļa.
-- [x] Izveidota septītā sadaļa.
-- [x] Izveidota astotā sadaļa.
-- [x] Izveidota devītā sadaļa.
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+### `npm run eject`
+
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
+
+### Code Splitting
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)

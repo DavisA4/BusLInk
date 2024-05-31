@@ -1,0 +1,27 @@
+.ag-theme-material {
+    text-align: left;
+  }
+  
+  .ag-header-cell-text {
+    font-weight: bold;
+  }
+  
+  .edit-button:hover {
+    background-color: #e6f4ff !important;
+    color: #3087ff !important;
+  }
+  
+  .add-button {
+    background-color: #e6f4ff;
+    color: #3087ff;
+  }
+  
+  .button-group {
+    margin: 10px 10px 10px 0;
+  }
+  
+  .button-container {
+    display: flex;
+    justify-content: flex-end;
+  }
+  

@@ -1,0 +1,36 @@
+body {
+    background: #f8f8f8;
+  }
+  
+  .navbar-sider {
+    overflow: auto;
+    height: 100vh;
+    position: fixed;
+    border-right: 1px solid #eeeeee;
+    background-color: #f8f8f8;
+    padding: 0 15px;
+  }
+  
+  .navbar-header {
+    text-align: center;
+    font-size: 35px;
+    background-color: #e6f4ff;
+    padding: 20px 0;
+    color: #3087ff;
+    border-radius: 10px;
+  }
+  
+  .navbar-menu {
+    text-align: left;
+  }
+  
+  .navbar-menu .ant-menu-item {
+    padding: 8px 12px;
+    font-size: 16px;
+    height: auto;
+  }
+  
+  .ant-menu {
+    border-right: none !important;
+  }
+  

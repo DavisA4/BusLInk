@@ -1,0 +1,26 @@
+body {
+    overflow: hidden; 
+}
+
+.login-form{
+    margin: 0 auto;
+    border-radius: 25px;
+    padding: 2%;
+    width: 400px;
+    background: #fff;
+    border: 1px solid rgba(211, 211, 211, .5);
+    box-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1), 0 2px 4px -2px rgb(0 0 0 / 0.1);
+}
+
+.login-btn{
+    width: 400px;
+    background: #7FB8C9;
+}
+
+.wrapper{
+    height: 100vh;
+    background: #f8f8f8;
+    padding: 10% 0;
+}
+
+
