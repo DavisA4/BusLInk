@@ -27,10 +27,10 @@ Veiciet šīs darbības, lai palaistu projektu:
  - Atveriet divus termināļus vienu pašam projektam otru datu bāzei.
  - Izvēlieties "New Terminal".
  ## Instalējiet Atkarības:
+ - Tad projektā izveidojiet .env failu un iekša rakstiet(JWT=randomstring)(Tas domāts ir lai parasti lietotāji nenozagtu admin jeb menedžera datus)
  - Terminālī ierakstiet npm install, lai instalētu nepieciešamās paketes.
  - Pēc instalēšanas palaidiet projektu ar npm start.
  - Otrā termināli rakstiet npm run devStart , lai palaistu datu bāzi.
- - Tad projektā izveidojiet .env failu un iekša rakstiet(JWT=randomstring)
  ## Piekļuve Projektam:
  - Projekts tiks atvērts jūsu noklusējuma tīmekļa pārlūkā.
  - Login:
